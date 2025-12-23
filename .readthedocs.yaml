@@ -15,7 +15,7 @@ sphinx:
    configuration: docs/conf.py
 
 formats:
-  - htmlzip
+    []
 
 # Optionally, but recommended,
 # declare the Python requirements required to build your documentation
